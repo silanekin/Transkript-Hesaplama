@@ -1,0 +1,2 @@
+# Transkript-Hesaplama
+C# PostgreSQL
